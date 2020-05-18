@@ -2,6 +2,7 @@
 
 name: Android CI
 
+# Defines when to trigger this workflow
 on:
   push:
     branches: [ master ]
